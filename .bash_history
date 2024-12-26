@@ -101,3 +101,6 @@ git clone https://github.com/ndi-sdk/ndi-python.git
 ssh-keygen -t ed25519 -C "your_email@example.com"
 git status
 git add -A
+git add -A
+git commit -m "Automatic commit"
+git push origin main
