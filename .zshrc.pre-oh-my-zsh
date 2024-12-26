@@ -1,0 +1,7 @@
+export PATH="/usr/local/opt/mysql-client/bin:$PATH" export 
+PATH="/usr/local/opt/openssl/bin:$PATH" export 
+PATH="/usr/local/opt/mysql-client/bin:$PATH" export 
+PATH="/usr/local/opt/mysql-client/bin:$PATH"
+export PATH="/usr/local/opt/mysql-client/bin:$PATH"
+export PATH="/usr/local/opt/mysql-client/bin:$PATH"
+export COMMANDLINE_ARGS="--skip-torch-cuda-test"
